@@ -1,4 +1,4 @@
-notebooks/data
-notebooks/cifar_net.pth
+notebooks_extended/data
+notebooks_extended/cifar_net.pth
 .ipynb_checkpoints/
 .idea/
