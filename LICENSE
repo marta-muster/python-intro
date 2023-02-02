@@ -1,8 +1,7 @@
 Die Inhalte sind Copyright Thomas Ekert 2023
-Einige Inhalte wurden aus folgenden Quellen entnommen und angepasst:
+Einige Inhalte wurden teilweise aus folgenden Quellen entnommen und angepasst bzw. übersetzt:
 
 ====================================================================================
-
 Einige Inhalte in Anlehnung an:
 http://nb.anaconda.cloud/
 https://learning.anaconda.cloud/introduction-to-python-programming?utm_campaign=starter&utm_source=post-download
@@ -683,7 +682,9 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 ====================================================================================
-Einige Notebooks in Anlehnung an https://github.com/codespaces/templates
+Einige Notebooks in Anlehnung an
+https://github.com/github/codespaces-jupyter
+siehe auch: https://github.com/codespaces/templates
 
 MIT License
 
@@ -706,3 +707,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+====================================================================================
+https://greenteapress.com/wp/think-python/
+http://creativecommons.org/licenses/by-nc/3.0/
+
