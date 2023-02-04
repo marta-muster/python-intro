@@ -14,9 +14,21 @@ with open(filename, 'r', encoding='UTF-8') as f:
     print ('\n\nFile access mode is: ', f.mode)
     print ('File name is:        ', f.name)
     print ('\n')
-    print (f.read())
+    # print (f.read())
 
 # Open CSV as Pandas DataFrame
 with open(filename, 'r', encoding='UTF-8') as f:
     df=pd.read_csv(f)
-    print(df)
+
+print ("------------------------------------------------------------")
+print ("df.head(5)")
+print ("------------------------------------------------------------")
+print(df.head(5))
+print ("------------------------------------------------------------")
+print("df.info()")
+print ("------------------------------------------------------------")
+print(df.info())
+print ("------------------------------------------------------------")
+print("df.max()")
+print ("------------------------------------------------------------")
+print(df.max())
