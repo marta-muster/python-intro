@@ -1,10 +1,10 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Schnelleinstieg Programmierung ♥️ mit Python!
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+## Willkommen - Schön, dass Sie dabei sind!
+In diesem Repository finden Sie die Code-Beispiele und Übungen zum Kurs.
+Hier können Sie selbst ausprobieren und die im Kurs besprochenen Beispiele nachvollziehen.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Neben den Vorträgen gehört zum Kurs ein Padlet, das Kennwort erhalten Sie im Kurs.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+[Kurs-Padlet öffnen](https://padlet.com/python_intro/start)
 
-Also see: https://github.com/github/codespaces-jupyter
-and: https://docs.github.com/en/codespaces
