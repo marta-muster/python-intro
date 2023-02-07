@@ -1,7 +1,3 @@
-Die Inhalte sind Copyright Thomas Ekert 2023
-Einige Inhalte wurden teilweise aus folgenden Quellen entnommen und angepasst bzw. übersetzt:
-
-====================================================================================
 Einige Notebooks in Anlehnung an
 https://github.com/github/codespaces-jupyter
 siehe auch: https://github.com/codespaces/templates
@@ -29,6 +25,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ====================================================================================
+Quellen:
 
 https://greenteapress.com/wp/think-python/ (http://creativecommons.org/licenses/by-nc/3.0/)
 
